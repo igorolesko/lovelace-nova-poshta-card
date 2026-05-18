@@ -1,0 +1,8 @@
+{
+  "name": "Nova Poshta Card",
+  "description": "Lovelace картка для трекінгу посилок Нової Пошти",
+  "render_readme": true,
+  "filename": "nova-poshta-card.js",
+  "homeassistant": "2023.1.0",
+  "content_in_root": true
+}
